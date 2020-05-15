@@ -1,0 +1,142 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "356490",
+      "name": "支付宝",
+      "font_class": "zhifubao",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "404882",
+      "name": "群蜂新浪微博",
+      "font_class": "qunfengxinlangweibo",
+      "unicode": "e6e5",
+      "unicode_decimal": 59109
+    },
+    {
+      "icon_id": "435978",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e7e5",
+      "unicode_decimal": 59365
+    },
+    {
+      "icon_id": "588420",
+      "name": "qq",
+      "font_class": "qq",
+      "unicode": "e65b",
+      "unicode_decimal": 58971
+    },
+    {
+      "icon_id": "690692",
+      "name": "YDUI-新浪微博",
+      "font_class": "yduixinlangweibo",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "1110423",
+      "name": "微信",
+      "font_class": "weixin1",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "1235507",
+      "name": "qq",
+      "font_class": "qq1",
+      "unicode": "f00a6",
+      "unicode_decimal": 983206
+    },
+    {
+      "icon_id": "1330569",
+      "name": "微信",
+      "font_class": "weixin2",
+      "unicode": "e73b",
+      "unicode_decimal": 59195
+    },
+    {
+      "icon_id": "1330571",
+      "name": "微博",
+      "font_class": "weibo",
+      "unicode": "e73c",
+      "unicode_decimal": 59196
+    },
+    {
+      "icon_id": "1346686",
+      "name": "新浪微博1",
+      "font_class": "xinlangweibo1",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "6360070",
+      "name": "支付平台-支付宝",
+      "font_class": "zhifupingtai-zhifubao",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "7581307",
+      "name": "QQ",
+      "font_class": "QQ",
+      "unicode": "e7e7",
+      "unicode_decimal": 59367
+    },
+    {
+      "icon_id": "9917257",
+      "name": "微博",
+      "font_class": "weibo1",
+      "unicode": "e6a4",
+      "unicode_decimal": 59044
+    },
+    {
+      "icon_id": "10905645",
+      "name": "支付宝",
+      "font_class": "zhifubao1",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "11372717",
+      "name": "微信",
+      "font_class": "weixin3",
+      "unicode": "e8bb",
+      "unicode_decimal": 59579
+    },
+    {
+      "icon_id": "11776581",
+      "name": "微信",
+      "font_class": "weixin4",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "12443502",
+      "name": "qq",
+      "font_class": "sign_qq",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "14055529",
+      "name": "QQ",
+      "font_class": "QQ1",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "14055577",
+      "name": "微博",
+      "font_class": "weibo11",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    }
+  ]
+}
